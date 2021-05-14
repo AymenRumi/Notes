@@ -1,4 +1,4 @@
-# Stars EDA - 2 Month (Jan,Feb) Observation Report
+# Stars EDA 2 Month - Observation Report
 
 This is a small report from my Stars EDA, it will focus on some interesting findings that need answers. The main EDA document is where most of the analysis is.
 
