@@ -15,3 +15,10 @@ Missing Data
 5. Device Key
 6. Aircraft Type Designator
 7. AUC ID
+
+
+## Session ID
+
+#### Observation:
+
+- 
