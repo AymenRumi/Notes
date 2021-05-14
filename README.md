@@ -21,7 +21,7 @@ Missing Data
 
 #### Observation:
 
-- Many rows are completely duplicate rows, there is mutliple values of the same session ID that are the same, an example is shown below.
+- Many rows are completely duplicate rows, there is mutliple values of the same session IDs where the rows are completely the same, an example on two identical rows is shown below.
 
 ![](https://user-images.githubusercontent.com/25378211/118283899-da48c780-b49d-11eb-969d-4bf50c9819f1.png)
 
