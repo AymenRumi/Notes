@@ -21,4 +21,8 @@ Missing Data
 
 #### Observation:
 
-- 
+- Many rows are completely duplicate rows, there is mutliple values of the same session ID that are the same, an example is shown below.
+
+![image](https://user-images.githubusercontent.com/25378211/118283191-16c7f380-b49d-11eb-8164-463d69230b33.png)
+![image](https://user-images.githubusercontent.com/25378211/118283233-21828880-b49d-11eb-95a4-5d6f58010776.png)
+
