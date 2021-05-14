@@ -27,6 +27,16 @@ Missing Data
 ![](https://user-images.githubusercontent.com/25378211/118283899-da48c780-b49d-11eb-969d-4bf50c9819f1.png)
 
 
+## Training Event Title by Formula
+
+#### Observation:
+
+- There seems to be different distribution of Formula for 2 of the Training Events (Summary Task & Checking Total)
+
+![image](https://user-images.githubusercontent.com/25378211/118287458-77592f80-b4a1-11eb-9ecf-386ace385676.png)
+
+
+
 ## Formula & Training Event Grade
 
 #### Observation:
