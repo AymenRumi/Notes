@@ -1,6 +1,6 @@
 # Stars EDA - 2 Month (Jan,Feb) Observation Report
 
-This is a small report from my Stars EDA, it will focus on some interesting findings. The main EDA document is where most of the analysis is.
+This is a small report from my Stars EDA, it will focus on some interesting findings that need answers. The main EDA document is where most of the analysis is.
 
 ## Missing Data Patterns
 
