@@ -29,3 +29,8 @@ Missing Data
 ## Formula & Training Event Grade
 
 #### Observation:
+
+- Depending on the Formula, the inputs for the Training Event Grade differ greatly. All possible inputs depending on the formula are shown below
+
+![image](https://user-images.githubusercontent.com/25378211/118284700-b2a62f00-b49e-11eb-826e-c8858665cbf8.png)
+
