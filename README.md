@@ -23,7 +23,7 @@ Missing Data
 
 - Many rows are completely duplicate rows, there is mutliple values of the same session ID that are the same, an example is shown below.
 
-![](https://user-images.githubusercontent.com/25378211/118283716-a9689280-b49d-11eb-9aed-1ce7148b4cc2.png) 
-![](https://user-images.githubusercontent.com/25378211/118283233-21828880-b49d-11eb-95a4-5d6f58010776.png)
+![](https://user-images.githubusercontent.com/25378211/118283899-da48c780-b49d-11eb-969d-4bf50c9819f1.png)
+
 
 
