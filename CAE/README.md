@@ -16,6 +16,10 @@ I will have a powerpoint with demonstration of the best practices I present.
 
 ![image](https://user-images.githubusercontent.com/25378211/120262176-577a8780-c267-11eb-9a30-0e5b610fccf8.png)
 
+### How? 
+
+![image](https://user-images.githubusercontent.com/25378211/120262883-9d841b00-c268-11eb-93b8-4b891280be2d.png)
+
 
 ## 1. Data Cleaning / Quality Check
 
@@ -29,3 +33,4 @@ I will have a powerpoint with demonstration of the best practices I present.
 * Histogram
 * Multi-variate chart
 * Scatter plot
+
