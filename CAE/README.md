@@ -1,4 +1,7 @@
 
-# Exploratory Data Analysis - Best Practices (in my opinion)
+# Exploratory Data Analysis - Best Practices 
+
+
+## Overview
 
 
