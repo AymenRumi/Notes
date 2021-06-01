@@ -16,9 +16,9 @@ I will have a powerpoint with demonstration of the best practices I present.
 
 ![image](https://user-images.githubusercontent.com/25378211/120262176-577a8780-c267-11eb-9a30-0e5b610fccf8.png)
 
-### How? 
+#### How? 
 
-![image](https://user-images.githubusercontent.com/25378211/120262948-ba205300-c268-11eb-8651-81054541a4b3.png)
+![image](https://user-images.githubusercontent.com/25378211/120263000-d7552180-c268-11eb-8058-9e9aecc478b0.png)
 
 ## 1. Data Cleaning / Quality Check
 
