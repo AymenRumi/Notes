@@ -3,7 +3,13 @@
 
 This document is a short overview of my presentation on Thursday.
 
-I will have a powerpoint with demonstration of the best practices I present.
+I will have a powerpoint with demonstration of the best practices for doing Exploratory Data Analysis.
+The 4 areas I will focus on will be the following, with emphasis on the first 2.
+
+1. Data Cleaning / Quality Check
+2. Data Visualization / Graphical Techniques
+3. Dimensionality Reduction / Unsupervised Learning
+4. Basic Modelling
 
 ## Overview
 
