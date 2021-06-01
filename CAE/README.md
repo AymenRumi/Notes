@@ -33,7 +33,7 @@ I will have a powerpoint with demonstration of the best practices I present.
 * Multi-Variate Distributions
 * Scatter plot
 
-## 3. Unsupervised Learning
+## 3. Dimensionality Reduction / Unsupervised Learning
 * Principal Component Analysis
 * Clustering
 
