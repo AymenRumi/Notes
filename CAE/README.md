@@ -1,7 +1,9 @@
 
 # Exploratory Data Analysis - Best Practices 
 
-This document is a short overview of my presentation on Thursday
+This document is a short overview of my presentation on Thursday.
+
+I will have a powerpoint with demonstration of the best practices I present.
 
 ## Overview
 
@@ -20,4 +22,10 @@ This document is a short overview of my presentation on Thursday
 * Missing Data
 * Outliers
 * Transformations
-* 
+* Preprocessing
+
+## 2. Data Visualization / Graphical Techniques
+* Box plot
+* Histogram
+* Multi-variate chart
+* Scatter plot
