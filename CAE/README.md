@@ -30,6 +30,9 @@ I will have a powerpoint with demonstration of the best practices I present.
 ## 2. Data Visualization / Graphical Techniques
 * Box plot
 * Histogram
-* Multi-variate chart
+* Multi-Variate Distributions
 * Scatter plot
 
+## 3. Unsupervised Learning
+* Principal Component Analysis
+* Clustering
