@@ -1,6 +1,7 @@
 
 # Exploratory Data Analysis - Best Practices 
 
+This document is a short overview of my presentation on Thursday
 
 ## Overview
 
