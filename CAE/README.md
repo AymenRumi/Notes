@@ -15,9 +15,9 @@ This document is a short overview of my presentation on Thursday
 ![image](https://user-images.githubusercontent.com/25378211/120262176-577a8780-c267-11eb-9a30-0e5b610fccf8.png)
 
 
-## 1. Data Cleaning
+## 1. Data Cleaning / Quality Check
 
 * Missing Data
 * Outliers
-
-
+* Transformations
+* 
