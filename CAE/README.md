@@ -36,3 +36,7 @@ I will have a powerpoint with demonstration of the best practices I present.
 ## 3. Unsupervised Learning
 * Principal Component Analysis
 * Clustering
+
+## 4. Basic Modelling
+* Regression
+* Classification
