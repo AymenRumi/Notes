@@ -9,7 +9,7 @@ The 4 areas I will focus on will be the following, with emphasis on the first 2.
 1. Data Cleaning / Quality Check
 2. Data Visualization / Graphical Techniques
 3. Dimensionality Reduction / Unsupervised Learning
-4. Basic Modelling
+4. Data Requirements for Basic Modelling
 
 ## Overview
 
@@ -43,6 +43,6 @@ The 4 areas I will focus on will be the following, with emphasis on the first 2.
 * Principal Component Analysis
 * Clustering
 
-## 4. Basic Modelling
+## 4. Data Requirements for Basic Modelling
 * Regression
 * Classification
