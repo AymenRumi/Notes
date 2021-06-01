@@ -6,7 +6,7 @@ This document is a short overview of my presentation on Thursday
 ## Overview
 
 
-#### What is EDA?
+#### What?
 
 ![image](https://user-images.githubusercontent.com/25378211/120262249-724cfc00-c267-11eb-9076-8f6300385874.png)
 
